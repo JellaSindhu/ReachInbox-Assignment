@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReachInBox-Frontend
 
 ## Overview
@@ -75,3 +76,6 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
 
    <p>Feel free to explore and integrate these endpoints into your application.</p>
   
+=======
+# ReachInbox-Assignment
+>>>>>>> 3bf773fb70053ffdcd0b4482d112d036c6f234e6
