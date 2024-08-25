@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# ReachInBox-Frontend
+# ReachInBox
 
 ## Overview
 This repository contains the code for Reachinbox frontend  App using React with Typescript for an assignment given by Reachinbox.
@@ -42,7 +41,7 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
  
    <h2>Installation</h2>
    
-   Clone the repository:   ``` git clone https://github.com/JahirPendhari09/ReachInBox-Frontend.git  ``` <br/>
+   Clone the repository:   ``` git clone https://github.com/JellaSindhu/ReachInbox-Assignment.git ``` <br/>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
